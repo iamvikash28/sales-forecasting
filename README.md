@@ -49,3 +49,10 @@ streamlit run app.py
 
 ## Live demo
 [sales-fc.streamlit.app](https://sales-fc.streamlit.app)
+
+## 👤 Author
+
+**Vikash Verma**
+Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
+
+---
