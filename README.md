@@ -48,4 +48,4 @@ streamlit run app.py
 ```
 
 ## Live demo
-[sales-forecasting.streamlit.app](https://sales-forecasting.streamlit.app) *(update after deploying)*
+[sales-fc.streamlit.app](https://sales-fc.streamlit.app)
